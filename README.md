@@ -6,6 +6,8 @@ SCORM-пакет создавался по тебе ВКР "Разработка
 
 При создании SCORM-пакет использовались: PowerPoint и iSpring
 
+**SCORM-пакет в формате zip - для СДО, SCORM-пакет в формате HTML - для более простого просмотра**
+
 SCORM-пакет загружен на СДО moodlecloud
 
 [Ссылка на курс на moodlecloud](https://akwatore.moodlecloud.com/course/view.php?id=5)
