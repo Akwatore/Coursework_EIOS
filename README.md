@@ -14,5 +14,5 @@ SCORM-пакет загружен на СДО moodlecloud
 
 Логин и пароль для доступа на курс:
 
-- login: 
-- pass: 
+- login: student
+- pass: student123
